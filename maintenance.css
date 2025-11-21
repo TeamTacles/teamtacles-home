@@ -154,6 +154,7 @@ a {
     width: 100%;
     height: auto;
     margin: 0 auto;
+    border-radius: var(--radius-lg);
     filter: drop-shadow(0 20px 40px rgba(0, 0, 0, 0.3));
 }
 
